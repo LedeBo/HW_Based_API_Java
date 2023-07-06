@@ -4,8 +4,11 @@ public class Main {
         //    firstTask.triangleOutput();
         //    firstTask.faktorialOutput();
 
-           SecondTask secondTask = new SecondTask();
-        //    secondTask.simpleNumber();
-           secondTask.simpleNum();
+        //    SecondTask secondTask = new SecondTask();
+        // //    secondTask.simpleNumber();
+        //    secondTask.simpleNum();
+
+        ThirdTask thirdTask = new ThirdTask();
+        thirdTask.getResult();
     }   
 }
